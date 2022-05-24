@@ -17,10 +17,6 @@
 🌱 I’m a Full stack developer with a masters degree in Computer science. </br>
 👨‍💻  I am passionate about Android Dev & I enjoy learning new things. </br>
 
-### My Experiences 🙌
-- [Software Engineer(Netra Scan technologies)](https://netranow.com/) - (Sep'18-Present)
-- [Software Engineer (viral technologies)](https://www.viraltech.in/) - (Sep'15-Sep'18)
-
 ![Kundan's github stats](https://github-readme-stats.vercel.app/api?username=kundanSingh11&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Kundan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kundanSingh11&layout=compact&langs_count=8&hide_border=true)
 <br />

@@ -7,8 +7,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 <a href="https://twitter.com/KundanKS11">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:ignyte.technologies@gmail.com
-">
+<a href="mailto:ignyte.technologies@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />

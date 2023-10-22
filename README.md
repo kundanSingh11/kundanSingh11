@@ -1,4 +1,4 @@
-Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kundan Kumar Singh!](https://www.linkedin.com/in/kundan-s-678a13b6/) 
+Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, <br/>I'm [Kundan Kumar Singh!](https://www.linkedin.com/in/kundan-s-678a13b6/) 
 
 
 <a href="https://www.linkedin.com/in/kundan-s-678a13b6/">

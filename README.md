@@ -17,7 +17,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 👨‍💻  I am passionate about Android Dev & I enjoy learning new things. </br>
 
 ![Kundan's github stats](https://github-stats-extended.vercel.app/api?username=kundanSingh11)&nbsp;&nbsp;
-![Kundan's Language stats]([https://github-stats-extended.vercel.app/api/top-langs/?username=kundanSingh11&hide=javascript,html,css])
+![Kundan's Language stats](https://github-stats-extended.vercel.app/api/top-langs/?username=kundanSingh11&hide=javascript,html,css)
 <br />
 
 

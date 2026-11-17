@@ -16,7 +16,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 🌱 I’m a Full stack developer with a masters degree in Computer science. </br>
 👨‍💻  I am passionate about Android Dev & I enjoy learning new things. </br>
 
-![Kundan's github stats](https://github-stats-extended.vercel.app/api?username=kundanSingh11&theme=radical)&nbsp;&nbsp;
+[![Anurag's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=kundanSingh11&show_icons=true&theme=light_github#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
 ![Kundan's Language stats](https://github-stats-extended.vercel.app/api/top-langs/?username=kundanSingh11)
 <br />
 
